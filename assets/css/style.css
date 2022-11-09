@@ -1,0 +1,9 @@
+/* <header>タグに有効化される */
+header {
+  background: #DDEEFF;
+}
+
+/* クラスをclass="red"と指定した場合に有効化される */
+.red {
+  color: #FF0000;
+}
