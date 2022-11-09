@@ -6,7 +6,7 @@
 2. index.htmlをブラウザにドラッグ&ドロップすれば表示できます. 特別なソフトは一切必要ありません. Java Scriptも動きます.
 3. CSSのファイル, Java Scriptのコード, 画像ファイルはassets内に全て置いてありますので, 後は察してください.
 
-## CSS
+## CSSについて
 
 ブラウザごとにCSSのデフォルト値が異なることがあり, よくトラブルを起こします. そういった環境依存性を打ち消すために, [index.html](https://github.com/ohno/HTML-example/blob/main/index.html)に
 
