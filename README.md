@@ -1,4 +1,4 @@
-# HTML-example
+# html-example
 
 ## 動かし方
 
